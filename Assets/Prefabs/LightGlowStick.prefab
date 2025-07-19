@@ -10,27 +10,27 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: 5235f3354d55b3047977c1ad1328751a, type: 3}
       propertyPath: m_LocalScale.x
-      value: 3.2922
+      value: 8.375028
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 5235f3354d55b3047977c1ad1328751a, type: 3}
       propertyPath: m_LocalScale.y
-      value: 3.2922
+      value: 8.375028
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 5235f3354d55b3047977c1ad1328751a, type: 3}
       propertyPath: m_LocalScale.z
-      value: 3.2922
+      value: 8.375028
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 5235f3354d55b3047977c1ad1328751a, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 1.38
+      value: -44.44889
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 5235f3354d55b3047977c1ad1328751a, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -0.00000047683716
+      value: 1.19
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 5235f3354d55b3047977c1ad1328751a, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 12.18
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 5235f3354d55b3047977c1ad1328751a, type: 3}
       propertyPath: m_LocalRotation.w
@@ -62,7 +62,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 5235f3354d55b3047977c1ad1328751a, type: 3}
       propertyPath: m_Name
-      value: Light_Glow_13
+      value: LightGlowStick
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -71,6 +71,9 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: 5235f3354d55b3047977c1ad1328751a, type: 3}
       insertIndex: -1
       addedObject: {fileID: 8939456998677877101}
+    - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: 5235f3354d55b3047977c1ad1328751a, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 6086110876412923131}
   m_SourcePrefab: {fileID: 100100000, guid: 5235f3354d55b3047977c1ad1328751a, type: 3}
 --- !u!1 &4379152461253295221 stripped
 GameObject:
@@ -98,3 +101,17 @@ BoxCollider:
   serializedVersion: 3
   m_Size: {x: 0.60597765, y: 2, z: 0.5201947}
   m_Center: {x: 0, y: 1, z: 0}
+--- !u!114 &6086110876412923131
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4379152461253295221}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c088996d17f0e624aaec17179f84f918, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  movementVector: {x: 0, y: 0, z: 0}
+  Speed: 0
