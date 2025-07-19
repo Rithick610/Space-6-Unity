@@ -110,8 +110,8 @@ MonoBehaviour:
     m_Flags: 0
   thrustSFX: {fileID: 8300000, guid: 6e9c01118b417cc49ab012b3dc9a41d4, type: 3}
   thrusterParticle: {fileID: 5928130712925607151}
-  leftRotateParticle: {fileID: 6307330019633323662}
-  rightRotateParticle: {fileID: 4000005599719993846}
+  leftRotateParticle: {fileID: 4000005599719993846}
+  rightRotateParticle: {fileID: 6307330019633323662}
   thrustSpeed: 3000
   rotationSpeed: 300
 --- !u!114 &6268916464871124090
