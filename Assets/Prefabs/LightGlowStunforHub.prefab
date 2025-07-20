@@ -187,7 +187,7 @@ PrefabInstance:
       objectReference: {fileID: 2100000, guid: d745cda6bbdc92c49be56b26a6525310, type: 2}
     - target: {fileID: 919132149155446097, guid: 5235f3354d55b3047977c1ad1328751a, type: 3}
       propertyPath: m_Name
-      value: LightGlowStick
+      value: LightGlowStunforHub
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
