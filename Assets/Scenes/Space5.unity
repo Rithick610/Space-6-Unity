@@ -742,8 +742,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c088996d17f0e624aaec17179f84f918, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  movementVector: {x: 0, y: 15, z: 0}
-  Speed: 2
+  movementVector: {x: 0, y: 20, z: 0}
+  Speed: 1.5
 --- !u!1001 &151057427
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -2693,7 +2693,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   movementVector: {x: 0, y: 15, z: 0}
-  Speed: 2
+  Speed: 1
 --- !u!1001 &639768461
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -5309,8 +5309,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c088996d17f0e624aaec17179f84f918, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  movementVector: {x: 0, y: 15, z: 0}
-  Speed: 2
+  movementVector: {x: 0, y: 20, z: 0}
+  Speed: 1.5
 --- !u!1001 &1451330537
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -7751,8 +7751,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c088996d17f0e624aaec17179f84f918, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  movementVector: {x: 0, y: 15, z: 0}
-  Speed: 2
+  movementVector: {x: 0, y: 20, z: 0}
+  Speed: 1.5
 --- !u!1001 &2067650595
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -7857,7 +7857,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5504742791993311349, guid: ef73e3bce5c9a9e4da9c7ea197838cc5, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 16.3
+      value: 10.5
       objectReference: {fileID: 0}
     - target: {fileID: 5504742791993311349, guid: ef73e3bce5c9a9e4da9c7ea197838cc5, type: 3}
       propertyPath: m_LocalPosition.z
