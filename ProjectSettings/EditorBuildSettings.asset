@@ -6,20 +6,23 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/Main Menu.unity
-    guid: 0c6a69b86704cac4e8e93439c73460bc
-  - enabled: 1
     path: Assets/Scenes/Space1.unity
     guid: 2fdcfaf4e294f1242b6d4bdb36f96062
   - enabled: 1
-    path: Assets/Scenes/Space1 1.unity
-    guid: 9a04879ae045b3f41bd767dd6f2ee6fe
+    path: Assets/Scenes/Space2.unity
+    guid: 94aea39fee0596d44bbdc59d53a650ff
   - enabled: 1
-    path: Assets/Scenes/Space1 2.unity
-    guid: 2ca68257e494fe747a8cbe68a3cc2ecb
+    path: Assets/Scenes/Space3.unity
+    guid: 8812b047fa0bdd04099c529dc8008f2d
   - enabled: 1
-    path: Assets/Scenes/End Menu.unity
-    guid: 5296d1940102bc643a5ff7b7d062b290
+    path: Assets/Scenes/Space4.unity
+    guid: 001d13e7a439d0b46a107e4f601160ed
+  - enabled: 1
+    path: Assets/Scenes/Space5.unity
+    guid: e7bcffd9e242ab745861c19747529b7b
+  - enabled: 1
+    path: Assets/Scenes/Space6.unity
+    guid: d04c82b4af60e5e44ac1365ee560f2c1
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
   m_UseUCBPForAssetBundles: 0
