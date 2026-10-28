@@ -1,6 +1,6 @@
 # Space 6 – Unity Game
 
-Space 6 is a Unity game developed as a personal project to learn game development fundamentals and C# scripting.  
+Space 6 is a Unity game Rebuilt independently after completing the course; level designs are my own. 
 The game features a **2.5D gameplay style** (2D perspective built using 3D assets) and includes **6 playable levels**.
 
 This project was built while learning Unity through hands-on practice and focuses on gameplay mechanics, level progression, and basic game systems.
